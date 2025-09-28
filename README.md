@@ -42,7 +42,7 @@ Through structured tasks, this project aims to:
 ## 🔗 Attachments 
 - [Amazon Analysis](./Amazon.ipynb) → Amazon Analysis's `.ipynb` file 📂  
 - [Reports](Reports/) → Daily, Weekly and Monthly Sales Report 📑
-- [Sales Analysis](./Sales_Analysis.pdf) → Sales Trends & Insights Report
+- [Sales Analysis](./Sales_Analysis.pdf) → Sales Trends & Insights Report 🎯
 
 ---
 
