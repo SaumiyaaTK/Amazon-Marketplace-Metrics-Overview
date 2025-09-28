@@ -28,3 +28,28 @@ Through structured tasks, this project aims to:
 - **Scikit-learn** – Evaluation metrics  
 - **Statsmodels** – Time series analysis  
 - **Jupyter Notebook** – Interactive exploration  
+
+---
+
+## 📅 Reports Generated
+
+- **Daily Sales Report** → Tracks revenue and order trends day by day
+- **Weekly Sales Report** → Identifies weekly growth and seasonality
+- **Monthly Sales Report** → Summarizes high-level performance and key metrics
+
+---
+
+## 🔗 Attachments 
+- [Amazon Analysis](./Amazon.ipynb) → Power BI `.pbix` file 📂  
+- [Sales Reports](Sales Reports/) → Daily, Weekly and Monthly Sales Report 📑  
+
+---
+
+## 👤 Author ✍️  
+**Saumiyaa T K**  
+[![GitHub](https://img.shields.io/badge/GitHub-SaumiyaaTK-blue?logo=github)](https://github.com/SaumiyaaTK)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saumiyaa%20T%20K-blue?logo=linkedin)](https://www.linkedin.com/in/saumiyaa-t-k)  
+
+---
+
+⭐ If you like this project, don’t forget to give it a star on GitHub!
