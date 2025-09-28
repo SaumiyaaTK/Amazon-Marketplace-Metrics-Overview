@@ -41,7 +41,7 @@ Through structured tasks, this project aims to:
 
 ## 🔗 Attachments 
 - [Amazon Analysis](./Amazon.ipynb) → Power BI `.pbix` file 📂  
-- [Sales Reports](Sales Reports/) → Daily, Weekly and Monthly Sales Report 📑  
+- [Sales Reports](Reports/) → Daily, Weekly and Monthly Sales Report 📑  
 
 ---
 
