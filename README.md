@@ -47,6 +47,15 @@ Through structured tasks, this project aims to:
 - Top Product: JNE3797 → Revenue ₹2,565,575.50
 - Top Category: Set → Revenue ₹35,002,340.00
 - Top Location: Maharashtra → Revenue ₹12,049,395.00
+
+### 📑 Monthly Revenue Analysis
+- Monthly revenue trend shows seasonal peaks and dips.
+- Helps identify growth months vs. weak months for targeted campaigns.
+- **(Chart: Revenue by Month)**
+### 📅 Yearly Revenue Analysis
+- Consolidates total revenue per year.
+- Useful for long-term growth tracking.
+- **(Chart: Revenue by Year)**
 ### 📊 Revenue by Category
 - Highest: Set dominates with the largest share of revenue.
 - Other notable categories: Dupatta, Saree, Bottom, Blouse, Ethnic Dress, Top, Western Dress, Kurta.
