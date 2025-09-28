@@ -47,21 +47,20 @@ Through structured tasks, this project aims to:
 - Top Product: JNE3797 → Revenue ₹2,565,575.50
 - Top Category: Set → Revenue ₹35,002,340.00
 - Top Location: Maharashtra → Revenue ₹12,049,395.00
-
 ## 📊 Revenue by Category
 - Highest: Set dominates with the largest share of revenue.
 - Other notable categories: Dupatta, Saree, Bottom, Blouse, Ethnic Dress, Top, Western Dress, Kurta.
 **(Chart: Category-wise Revenue Distribution)**
-
 ## 🏆 Top Products by Revenue
 - JNE3797, J0230, SET268, J0341, J0003 lead the sales chart
 - Top products collectively drive a significant proportion of total revenue.
 **(Chart: Top 10 Products by Revenue)**
-
 ## 🌍 Top Locations by Revenue
 - Maharashtra is the top-performing state.
 - Other high-contributing states include: Karnataka, Telangana, Uttar Pradesh, Tamil Nadu, Delhi, Kerala, West Bengal, Andhra Pradesh, Haryana.
 **(Chart: Revenue by State)**
+
+---
 
 ## 🔗 Attachments 
 - [Amazon Analysis](./Amazon.ipynb) → Amazon Analysis's `.ipynb` file 📂  
