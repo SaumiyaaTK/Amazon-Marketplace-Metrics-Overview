@@ -40,7 +40,7 @@ Through structured tasks, this project aims to:
 ---
 
 ## 🔗 Attachments 
-- [Amazon Analysis](./Amazon.ipynb) → Power BI `.pbix` file 📂  
+- [Amazon Analysis](./Amazon.ipynb) → Amazon Analysis's `.ipynb` file 📂  
 - [Sales Reports](Reports/) → Daily, Weekly and Monthly Sales Report 📑  
 
 ---
